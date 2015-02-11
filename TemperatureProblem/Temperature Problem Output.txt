@@ -1,0 +1,64 @@
+Month = 1
+Enter the high for the month.
+40
+Enter the low for the month.
+-10
+Month = 2
+Enter the high for the month.
+55
+Enter the low for the month.
+25
+Month = 3
+Enter the high for the month.
+60
+Enter the low for the month.
+40
+Month = 4
+Enter the high for the month.
+88
+Enter the low for the month.
+20
+Month = 5
+Enter the high for the month.
+72
+Enter the low for the month.
+55
+Month = 6
+Enter the high for the month.
+95
+Enter the low for the month.
+80
+Month = 7
+Enter the high for the month.
+97
+Enter the low for the month.
+87
+Month = 8
+Enter the high for the month.
+110
+Enter the low for the month.
+98
+Month = 9
+Enter the high for the month.
+79
+Enter the low for the month.
+68
+Month = 10
+Enter the high for the month.
+31
+Enter the low for the month.
+30
+Month = 11
+Enter the high for the month.
+58
+Enter the low for the month.
+-25
+Month = 12
+Enter the high for the month.
+32
+Enter the low for the month.
+-20
+The average high temperature for the year is 68.08
+The average low temperature for the year is 37.33
+The highest temperature of the year was 110 in month 8
+The lowest temperature of the year was -25 in month 11
